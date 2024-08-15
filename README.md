@@ -74,11 +74,12 @@ This repository contains the source code for the Contact Directory application, 
 
 ## Features
 
-- **User Authentication:** Login, Forgot Password, Reset Password
-- **Contact Management:** Add, View, Edit, Delete Contacts
-- **Form Handling:** Handle form submissions with error checking and validation
-- **Protected Routes:** Use JWT for protecting routes and ensuring authorized access
-- **Modal Forms:** For editing contact details
+- **User Authentication:** Secure login, password recovery, and reset functionality.
+- **Contact Management:** Add, view, edit, and delete contact information.
+- **Form Handling:** Error-checking and validation for form submissions.
+- **Protected Routes:** JWT-based protection for sensitive routes and authorized access.
+- **Modal Forms:** Seamless editing of contact details within modal interfaces.
+- **Admin Dashboard:** Manage users, view detailed contact logs, and control access to features.
 
 ## Folder Structure
 
